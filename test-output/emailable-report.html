@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">testBankingV1</th></tr>
+<tr><td><a href="#t0">BankingApp Test</a></td><td class="num">9</td><td class="num">0</td><td class="num">0</td><td class="num attn">3</td><td class="num">157,937</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">testBankingV1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">BankingApp Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.testBanking.testCases.TC_DeleteAccountTest_014</td><td><a href="#m0">deleteAccount</a></td><td rowspan="1">1664630395101</td><td rowspan="1">3657</td></tr><tr class="failedodd"><td rowspan="2">com.testBanking.testCases.TC_LoginDDT_002</td><td><a href="#m1">loginDDT</a></td><td rowspan="2">1664630282407</td><td rowspan="2">3337</td></tr><tr class="failedodd"><td><a href="#m2">loginDDT</a></td></tr><tr><th colspan="4">BankingApp Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.testBanking.testCases.TC_AddAccountTest_005</td><td><a href="#m3">addNewAccount</a></td><td rowspan="1">1664630347315</td><td rowspan="1">10720</td></tr><tr class="passedodd"><td rowspan="1">com.testBanking.testCases.TC_AddCustomerTest_003</td><td><a href="#m4">addNewCustomer</a></td><td rowspan="1">1664630301845</td><td rowspan="1">10060</td></tr><tr class="passedeven"><td rowspan="1">com.testBanking.testCases.TC_DeleteCustomerTest_015</td><td><a href="#m5">deleteCustomer</a></td><td rowspan="1">1664630408953</td><td rowspan="1">5464</td></tr><tr class="passedodd"><td rowspan="1">com.testBanking.testCases.TC_EditCustomerTest_004</td><td><a href="#m6">editCustomer</a></td><td rowspan="1">1664630328060</td><td rowspan="1">11755</td></tr><tr class="passedeven"><td rowspan="1">com.testBanking.testCases.TC_FundTransferTest_009</td><td><a href="#m7">fundTransferTest</a></td><td rowspan="1">1664630379412</td><td rowspan="1">7365</td></tr><tr class="passedodd"><td rowspan="2">com.testBanking.testCases.TC_LoginDDT_002</td><td><a href="#m8">loginDDT</a></td><td rowspan="2">1664630288383</td><td rowspan="2">5130</td></tr><tr class="passedodd"><td><a href="#m9">loginDDT</a></td></tr><tr class="passedeven"><td rowspan="1">com.testBanking.testCases.TC_LoginTest_001</td><td><a href="#m10">loginTest</a></td><td rowspan="1">1664630265933</td><td rowspan="1">2466</td></tr><tr class="passedodd"><td rowspan="1">com.testBanking.testCases.TC_Withdrawal_008</td><td><a href="#m11">withdrawalTest</a></td><td rowspan="1">1664630366751</td><td rowspan="1">5478</td></tr></tbody>
+</table>
+<h2>BankingApp Test</h2><h3 id="m0">com.testBanking.testCases.TC_DeleteAccountTest_014#deleteAccount</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=106.0.5249.91)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;BOUDEFEL&apos;, ip: &apos;10.5.0.9&apos;, os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;18.0.1.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\s_bou\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e621772b00a2d428aa48e462df574c5a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at com.testBanking.testCases.TC_DeleteAccountTest_014.deleteAccount(TC_DeleteAccountTest_014.java:40)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 28 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.testBanking.testCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr441525</td><td>tt</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at com.testBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:36)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.testBanking.testCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr441525</td><td>mngr441525</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at com.testBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:36)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.testBanking.testCases.TC_AddAccountTest_005#addNewAccount</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.testBanking.testCases.TC_AddCustomerTest_003#addNewCustomer</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.testBanking.testCases.TC_DeleteCustomerTest_015#deleteCustomer</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.testBanking.testCases.TC_EditCustomerTest_004#editCustomer</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.testBanking.testCases.TC_FundTransferTest_009#fundTransferTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.testBanking.testCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr441525</td><td>gupahAh</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">com.testBanking.testCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>mngr441525</td><td>gupahAh</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">com.testBanking.testCases.TC_LoginTest_001#loginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">com.testBanking.testCases.TC_Withdrawal_008#withdrawalTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>
