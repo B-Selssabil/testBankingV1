@@ -7,20 +7,12 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.testBanking.testCases.TC_LoginDDT_002">
+      <class name="com.testBanking.testCases.TC_CustomizedStatement_013">
         <methods>
-          <include name="tearDown"/>
-          <include name="loginDDT" invocation-numbers="1 2"/>
+          <include name="miniStatementTest"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.testBanking.testCases.TC_LoginDDT_002 -->
-      <class name="com.testBanking.testCases.TC_DeleteAccountTest_014">
-        <methods>
-          <include name="tearDown"/>
-          <include name="deleteAccount"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.testBanking.testCases.TC_DeleteAccountTest_014 -->
+      </class> <!-- com.testBanking.testCases.TC_CustomizedStatement_013 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [testBankingV1] -->

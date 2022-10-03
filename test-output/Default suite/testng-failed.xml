@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testBanking.testCases.TC_FundTransferTest_009">
+      <class name="com.testBanking.testCases.TC_MiniStatement_012">
         <methods>
-          <include name="fundTransferTest"/>
+          <include name="miniStatementTest"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.testBanking.testCases.TC_FundTransferTest_009 -->
+      </class> <!-- com.testBanking.testCases.TC_MiniStatement_012 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

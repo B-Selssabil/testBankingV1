@@ -18,7 +18,6 @@ public class EditCustomerPage {
 		
 	}
 	
-	
 	@FindBy(linkText="Edit Customer")
 	@CacheLookup
 	WebElement editCustLink;

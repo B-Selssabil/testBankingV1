@@ -16,15 +16,20 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 
-			<class name="com.testBanking.testCases.TC_LoginTest_001" /> 
-			<!-- <class name="com.testBanking.testCases.TC_LoginDDT_002" />   -->
+			<class name="com.testBanking.testCases.TC_LoginTest_001" />
+		    <!-- <class name="com.testBanking.testCases.TC_LoginDDT_002" /> -->
 			<class name="com.testBanking.testCases.TC_AddCustomerTest_003"/> 
 			<class name="com.testBanking.testCases.TC_EditCustomerTest_004"/> 
 			<class name="com.testBanking.testCases.TC_AddAccountTest_005"/>
+			<class name="com.testBanking.testCases.TC_Deposit_007" />
 			<class name="com.testBanking.testCases.TC_Withdrawal_008"/> 
-			<class name="com.testBanking.testCases.TC_FundTransferTest_009"/> 
-			<class name="com.testBanking.testCases.TC_DeleteAccountTest_014" /> 
-			<class name="com.testBanking.testCases.TC_DeleteCustomerTest_015"/>
+		    <class name="com.testBanking.testCases.TC_FundTransferTest_009"/>
+			<class name="com.testBanking.testCases.TC_ChangePassword_010" />
+			 <class name="com.testBanking.testCases.TC_BalanceEnquiry_011" /> 
+			<class name="com.testBanking.testCases.TC_MiniStatement_012" />
+			<class name="com.testBanking.testCases.TC_CustomizedStatement_013" />
+			<class name="com.testBanking.testCases.TC_DeleteAccountTest_014" />
+			<class name="com.testBanking.testCases.TC_DeleteCustomerTest_015"/> 
 
 			<!-- page not showing delete account -->
 

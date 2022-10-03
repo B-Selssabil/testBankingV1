@@ -493,3 +493,204 @@
 14:20:13.772 [main] INFO  com.testBanking.testCases.Base - Customer id entred
 14:20:13.841 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
 14:20:14.416 [main] INFO  com.testBanking.testCases.Base - Deleted Customer succeussfully
+11:52:42.920 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+11:52:43.018 [main] INFO  com.testBanking.testCases.Base - Username entred
+11:52:43.087 [main] INFO  com.testBanking.testCases.Base - Password entred
+11:52:44.211 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+11:52:48.429 [main] INFO  com.testBanking.testCases.Base - Deposit Page opened
+11:52:48.510 [main] INFO  com.testBanking.testCases.Base - Acount Number entred
+11:52:48.583 [main] INFO  com.testBanking.testCases.Base - Amount entred
+11:52:48.945 [main] INFO  com.testBanking.testCases.Base - Description entred
+11:54:11.693 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+11:54:11.811 [main] INFO  com.testBanking.testCases.Base - Username entred
+11:54:11.881 [main] INFO  com.testBanking.testCases.Base - Password entred
+11:54:12.937 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+11:54:17.346 [main] INFO  com.testBanking.testCases.Base - Deposit Page opened
+11:54:17.452 [main] INFO  com.testBanking.testCases.Base - Acount Number entred
+11:54:17.544 [main] INFO  com.testBanking.testCases.Base - Amount entred
+11:54:17.664 [main] INFO  com.testBanking.testCases.Base - Description entred
+11:55:01.835 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+11:55:01.987 [main] INFO  com.testBanking.testCases.Base - Username entred
+11:55:02.087 [main] INFO  com.testBanking.testCases.Base - Password entred
+11:55:05.339 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+11:55:08.185 [main] INFO  com.testBanking.testCases.Base - Deposit Page opened
+11:55:08.272 [main] INFO  com.testBanking.testCases.Base - Acount Number entred
+11:55:08.351 [main] INFO  com.testBanking.testCases.Base - Amount entred
+11:55:08.436 [main] INFO  com.testBanking.testCases.Base - Description entred
+11:56:13.086 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+11:56:13.244 [main] INFO  com.testBanking.testCases.Base - Username entred
+11:56:13.331 [main] INFO  com.testBanking.testCases.Base - Password entred
+11:56:14.448 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+11:56:19.711 [main] INFO  com.testBanking.testCases.Base - Deposit Page opened
+11:56:19.820 [main] INFO  com.testBanking.testCases.Base - Acount Number entred
+11:56:19.907 [main] INFO  com.testBanking.testCases.Base - Amount entred
+11:56:20.007 [main] INFO  com.testBanking.testCases.Base - Description entred
+11:56:21.158 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+11:56:21.158 [main] INFO  com.testBanking.testCases.Base - Deposit transaction done successfully .
+08:19:37.419 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:19:37.559 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:19:37.646 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:19:38.643 [main] INFO  com.testBanking.testCases.Base - Submit Button Clicked
+08:19:42.829 [main] INFO  com.testBanking.testCases.Base - Add newCustomer Page Opened
+08:19:42.911 [main] INFO  com.testBanking.testCases.Base - Customer name entred 
+08:19:43.026 [main] INFO  com.testBanking.testCases.Base - Customer gender entred 
+08:19:43.173 [main] INFO  com.testBanking.testCases.Base - Customer date of birth entred 
+08:19:43.271 [main] INFO  com.testBanking.testCases.Base - Customer address entred 
+08:19:43.649 [main] INFO  com.testBanking.testCases.Base - Customer city entred 
+08:19:43.733 [main] INFO  com.testBanking.testCases.Base - Customer state entred 
+08:19:43.823 [main] INFO  com.testBanking.testCases.Base - Customer pinno entred 
+08:19:43.930 [main] INFO  com.testBanking.testCases.Base - Customer telephone entred 
+08:19:44.054 [main] INFO  com.testBanking.testCases.Base - Customer email entred 
+08:19:44.136 [main] INFO  com.testBanking.testCases.Base - Customer password entred 
+08:19:45.263 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:19:45.445 [main] INFO  com.testBanking.testCases.Base - Added new customer successfuly 
+08:19:48.751 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:19:48.895 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:19:48.981 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:19:49.832 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:19:53.835 [main] INFO  com.testBanking.testCases.Base - Change Password page opened .
+08:19:53.918 [main] INFO  com.testBanking.testCases.Base - Old Password entred
+08:19:54.005 [main] INFO  com.testBanking.testCases.Base - New Password entred
+08:19:54.089 [main] INFO  com.testBanking.testCases.Base - New Password Confirmed
+08:19:54.159 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:19:54.160 [main] INFO  com.testBanking.testCases.Base - Password changed successfully .
+08:21:20.784 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:21:20.914 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:21:20.996 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:21:21.964 [main] INFO  com.testBanking.testCases.Base - Submit Button Clicked
+08:21:26.178 [main] INFO  com.testBanking.testCases.Base - Add newCustomer Page Opened
+08:21:26.281 [main] INFO  com.testBanking.testCases.Base - Customer name entred 
+08:21:26.420 [main] INFO  com.testBanking.testCases.Base - Customer gender entred 
+08:21:26.573 [main] INFO  com.testBanking.testCases.Base - Customer date of birth entred 
+08:21:26.985 [main] INFO  com.testBanking.testCases.Base - Customer address entred 
+08:21:27.103 [main] INFO  com.testBanking.testCases.Base - Customer city entred 
+08:21:27.190 [main] INFO  com.testBanking.testCases.Base - Customer state entred 
+08:21:27.288 [main] INFO  com.testBanking.testCases.Base - Customer pinno entred 
+08:21:27.398 [main] INFO  com.testBanking.testCases.Base - Customer telephone entred 
+08:21:27.526 [main] INFO  com.testBanking.testCases.Base - Customer email entred 
+08:21:27.608 [main] INFO  com.testBanking.testCases.Base - Customer password entred 
+08:21:29.879 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:21:30.054 [main] INFO  com.testBanking.testCases.Base - Added new customer successfuly 
+08:21:33.831 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:21:33.978 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:21:34.076 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:21:35.039 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:21:39.000 [main] INFO  com.testBanking.testCases.Base - Change Password page opened .
+08:21:39.086 [main] INFO  com.testBanking.testCases.Base - Old Password entred
+08:21:39.180 [main] INFO  com.testBanking.testCases.Base - New Password entred
+08:21:39.270 [main] INFO  com.testBanking.testCases.Base - New Password Confirmed
+08:21:39.381 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:21:39.391 [main] INFO  com.testBanking.testCases.Base - Password changed successfully .
+08:27:35.749 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:27:35.911 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:27:36.009 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:27:38.101 [main] INFO  com.testBanking.testCases.Base - Submit Button Clicked
+08:27:43.826 [main] INFO  com.testBanking.testCases.Base - Add newCustomer Page Opened
+08:27:44.198 [main] INFO  com.testBanking.testCases.Base - Customer name entred 
+08:27:44.306 [main] INFO  com.testBanking.testCases.Base - Customer gender entred 
+08:27:44.462 [main] INFO  com.testBanking.testCases.Base - Customer date of birth entred 
+08:27:44.567 [main] INFO  com.testBanking.testCases.Base - Customer address entred 
+08:27:44.664 [main] INFO  com.testBanking.testCases.Base - Customer city entred 
+08:27:44.749 [main] INFO  com.testBanking.testCases.Base - Customer state entred 
+08:27:44.875 [main] INFO  com.testBanking.testCases.Base - Customer pinno entred 
+08:27:44.996 [main] INFO  com.testBanking.testCases.Base - Customer telephone entred 
+08:27:45.119 [main] INFO  com.testBanking.testCases.Base - Customer email entred 
+08:27:45.199 [main] INFO  com.testBanking.testCases.Base - Customer password entred 
+08:27:47.588 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:27:47.820 [main] INFO  com.testBanking.testCases.Base - Added new customer successfuly 
+08:27:51.900 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:27:52.020 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:27:52.108 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:27:53.242 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:27:57.381 [main] INFO  com.testBanking.testCases.Base - Change Password page opened .
+08:27:57.473 [main] INFO  com.testBanking.testCases.Base - Old Password entred
+08:27:57.558 [main] INFO  com.testBanking.testCases.Base - New Password entred
+08:27:57.640 [main] INFO  com.testBanking.testCases.Base - New Password Confirmed
+08:27:57.709 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:29:32.740 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:29:32.903 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:29:33.008 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:29:34.047 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:29:37.815 [main] INFO  com.testBanking.testCases.Base - Change Password page opened .
+08:29:37.904 [main] INFO  com.testBanking.testCases.Base - Old Password entred
+08:29:38.005 [main] INFO  com.testBanking.testCases.Base - New Password entred
+08:29:38.096 [main] INFO  com.testBanking.testCases.Base - New Password Confirmed
+08:29:38.167 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:30:22.341 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:30:22.494 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:30:22.596 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:30:23.634 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:30:28.647 [main] INFO  com.testBanking.testCases.Base - Change Password page opened .
+08:30:28.751 [main] INFO  com.testBanking.testCases.Base - Old Password entred
+08:30:28.859 [main] INFO  com.testBanking.testCases.Base - New Password entred
+08:30:28.960 [main] INFO  com.testBanking.testCases.Base - New Password Confirmed
+08:30:30.229 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:37:52.279 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:37:52.416 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:37:52.503 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:37:53.462 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:37:56.427 [main] INFO  com.testBanking.testCases.Base - Balance enquiry page opened .
+08:37:56.522 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:37:57.072 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:37:57.076 [main] INFO  com.testBanking.testCases.Base - Balance checked successfully .
+08:40:36.910 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:40:37.039 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:40:37.123 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:40:38.057 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:40:41.321 [main] INFO  com.testBanking.testCases.Base - Balance enquiry page opened .
+08:40:41.411 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:40:41.981 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:41:20.703 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:41:20.835 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:41:20.920 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:41:23.807 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:41:27.220 [main] INFO  com.testBanking.testCases.Base - Mini statement page opened .
+08:41:27.309 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:41:28.087 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:41:28.089 [main] INFO  com.testBanking.testCases.Base - Mini statement checked successfully .
+08:42:56.454 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:42:56.588 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:42:56.677 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:42:59.018 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:43:02.595 [main] INFO  com.testBanking.testCases.Base - Mini statement page opened .
+08:43:02.695 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:43:03.477 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:43:03.579 [main] INFO  com.testBanking.testCases.Base - Mini statement checked successfully .
+08:44:02.385 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:44:02.525 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:44:02.612 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:44:04.177 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:44:07.020 [main] INFO  com.testBanking.testCases.Base - Mini statement page opened .
+08:44:07.109 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:44:07.868 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:44:07.983 [main] INFO  com.testBanking.testCases.Base - Mini statement checked successfully .
+08:45:17.929 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:45:18.065 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:45:18.155 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:45:19.740 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:45:23.145 [main] INFO  com.testBanking.testCases.Base - Mini statement page opened .
+08:45:23.239 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:45:24.233 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:47:30.264 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:47:30.390 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:47:30.483 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:47:31.713 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:47:34.868 [main] INFO  com.testBanking.testCases.Base - Customized statement page opened .
+08:47:34.959 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:47:35.106 [main] INFO  com.testBanking.testCases.Base - From date entred .
+08:47:35.506 [main] INFO  com.testBanking.testCases.Base - To date entred .
+08:47:35.586 [main] INFO  com.testBanking.testCases.Base - Minimum Transaction Value entred .
+08:47:35.658 [main] INFO  com.testBanking.testCases.Base - Number of Transaction	 entred .
+08:47:36.394 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:47:36.397 [main] INFO  com.testBanking.testCases.Base - Customized statement checked successfully .
+08:49:02.047 [main] INFO  com.testBanking.testCases.Base - Login Page opened
+08:49:02.184 [main] INFO  com.testBanking.testCases.Base - Username entred
+08:49:02.274 [main] INFO  com.testBanking.testCases.Base - Password entred
+08:49:04.714 [main] INFO  com.testBanking.testCases.Base - Submit button clicked
+08:49:08.236 [main] INFO  com.testBanking.testCases.Base - Customized statement page opened .
+08:49:08.336 [main] INFO  com.testBanking.testCases.Base - Account number entred .
+08:49:08.713 [main] INFO  com.testBanking.testCases.Base - From date entred .
+08:49:08.862 [main] INFO  com.testBanking.testCases.Base - To date entred .
+08:49:08.937 [main] INFO  com.testBanking.testCases.Base - Minimum Transaction Value entred .
+08:49:09.026 [main] INFO  com.testBanking.testCases.Base - Number of Transaction	 entred .
+08:49:09.770 [main] INFO  com.testBanking.testCases.Base - Submit button clicked

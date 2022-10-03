@@ -8,6 +8,7 @@ import java.io.File;
 
 
 
+
 import org.apache.logging.log4j.*;
 
 
@@ -65,13 +66,15 @@ public class Base {
 		
 	}
 	
-	
-	@AfterClass  
+	@AfterClass
 	public void tearDown() {
 		
-		driver.quit();      
+		driver.quit();
 		
-		}
+	}
+	
+	
+	
 	
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
 		
